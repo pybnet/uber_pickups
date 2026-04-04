@@ -16,6 +16,10 @@
 *.npz
 *.joblib
 *logs
+*.log
+*.doc
+*.docx
+*.xls
 
 Icon?
 
