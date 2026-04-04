@@ -20,7 +20,7 @@
 *.doc
 *.docx
 *.xls
-
+*.mov
 Icon?
 
 __pycache__/
